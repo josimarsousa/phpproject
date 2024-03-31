@@ -1,6 +1,6 @@
         body {
             font-family: Arial, sans-serif;
-            background-color: #e3e7ea;
+            background-color: #eaeef1;
         }
         form {
             max-width: 900px;
@@ -10,10 +10,10 @@
             margin-top: 30%;
             margin-left: auto;
             align-items: center;
-            border: 1px solid #000000;
+            border: 3px solid #000000;
             padding: 40px;
             border-radius: 5px;
-            background-color: #eff3ef;
+            background-color:#eaeef1;
         }
         label {
             display: block;
@@ -43,7 +43,7 @@
             margin-top: 10px;
             background-color: #007bff;
             color: #fff;
-            border: none;
+            border: blue;
             padding: 10px 20px;
             border-radius: 5px;
             cursor: pointer;
