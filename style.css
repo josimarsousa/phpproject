@@ -1,0 +1,60 @@
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e3e7ea;
+        }
+        form {
+            max-width: 900px;
+            margin: auto;
+        }
+        fieldset {
+            margin-top: 30%;
+            margin-left: auto;
+            align-items: center;
+            border: 1px solid #000000;
+            padding: 40px;
+            border-radius: 5px;
+            background-color: #eff3ef;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-size: medium;
+        }
+        input[type="text"],
+        input[type="email"]{
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            margin-right: 10px;
+            border: 2px solid #ccc;
+            border-radius: 10px;
+        }
+        select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 2px solid #ccc;
+            border-radius: 5px;
+        }
+        input[type="radio"] {
+            margin-right: 10px;
+        }
+        button {
+            margin-top: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button.cancel {
+            background-color: #a19a9a;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        legend{
+            font-size: larger;            
+        }
+ 
